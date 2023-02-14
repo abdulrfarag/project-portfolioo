@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/abdulrfarag/project-portfolioo/static/css/main.6fc693e4.css",
+    "main.js": "/abdulrfarag/project-portfolioo/static/js/main.10c3930c.js",
+    "index.html": "/abdulrfarag/project-portfolioo/index.html",
+    "main.6fc693e4.css.map": "/abdulrfarag/project-portfolioo/static/css/main.6fc693e4.css.map",
+    "main.10c3930c.js.map": "/abdulrfarag/project-portfolioo/static/js/main.10c3930c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fc693e4.css",
+    "static/js/main.10c3930c.js"
+  ]
+}
