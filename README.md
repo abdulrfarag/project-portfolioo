@@ -12,6 +12,7 @@ install react, then run 'npm run start' to start the app
 https://github.com/abdulrfarag/project-portfolioo.git
 ## deploymen live link
 
+https://abdulrfarag.github.io/project-portfolioo/
 
 ## Author
 Abdul Farag
