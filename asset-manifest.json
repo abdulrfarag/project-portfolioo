@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/abdulrfarag/oop-project.git/static/css/main.6fc693e4.css",
-    "main.js": "/abdulrfarag/oop-project.git/static/js/main.10c3930c.js",
-    "index.html": "/abdulrfarag/oop-project.git/index.html",
-    "main.6fc693e4.css.map": "/abdulrfarag/oop-project.git/static/css/main.6fc693e4.css.map",
-    "main.10c3930c.js.map": "/abdulrfarag/oop-project.git/static/js/main.10c3930c.js.map"
+    "main.css": "/abdulrfarag/project-portfolioo.git/static/css/main.6fc693e4.css",
+    "main.js": "/abdulrfarag/project-portfolioo.git/static/js/main.10c3930c.js",
+    "index.html": "/abdulrfarag/project-portfolioo.git/index.html",
+    "main.6fc693e4.css.map": "/abdulrfarag/project-portfolioo.git/static/css/main.6fc693e4.css.map",
+    "main.10c3930c.js.map": "/abdulrfarag/project-portfolioo.git/static/js/main.10c3930c.js.map"
   },
   "entrypoints": [
     "static/css/main.6fc693e4.css",
